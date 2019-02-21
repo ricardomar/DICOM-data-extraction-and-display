@@ -12,9 +12,16 @@
 - Videos demonstrating the software tool in operation are presented next: 
 
 
+- [Demo video 01](https://youtu.be/LVHElObkFtM)
 
 [![alt text](https://img.youtube.com/vi/LVHElObkFtM/0.jpg)](https://youtu.be/LVHElObkFtM)
 
+
+
+- [Demo video 02](https://youtu.be/qGc6OE7P1KI)
+
 [![alt text](https://img.youtube.com/vi/qGc6OE7P1KI/0.jpg)](https://www.youtube.com/watch?v=qGc6OE7P1KI)
+
+
 
 -Software tool developed in collaboration with Joao Duarte and Edite Figueiras during the Medical Informatics course.
