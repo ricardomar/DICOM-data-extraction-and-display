@@ -1,8 +1,10 @@
 # DICOM data extraction and display
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4570569.svg)](https://doi.org/10.5281/zenodo.4570569)
+
 
 ## Objectives:
 
-- To develop a software tool that browses a DICOMDIR and lists the imagetype exams. When a image type exame is selected, the related directory record atributes are displayed. The user can visualize the sequence of images of the exam that was selected.
+- To develop a software tool that browses a DICOMDIR and lists the imagetype exams. When a image type exam is selected, the related directory record attributes are displayed. The user can visualize the sequence of images of the exam that was selected.
 
 
 ## Outputs:
